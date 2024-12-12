@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ML-Learning
-=======
 # ML Learning Repository
 
 Welcome to my **Machine Learning Learning Repository**! This repository contains personal study notes, visualizations, and explanations of key concepts in machine learning and deep learning, compiled from various resources, including online courses, tutorials, and educational videos.
@@ -12,6 +9,3 @@ This repository is structured to provide a well-organized collection of resource
 - **Deep Learning Notes**: Jupyter Notebooks summarizing and visualizing the deep learning concepts from **3Blue1Brown**'s YouTube series.
 
 more topics will be added later ;)
-
-reinforcement learning (to be added in the future).
->>>>>>> bb674fc (notes)
